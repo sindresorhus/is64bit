@@ -1,6 +1,6 @@
 # is64bit
 
-> Check whether operating system CPU architecture is 64-bit or 32-bit
+> Check if the operating system CPU architecture is 64-bit or 32-bit
 
 This package also works in the browser. It can be useful to serve the correct binary for download.
 

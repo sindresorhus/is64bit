@@ -1,5 +1,5 @@
 /**
-Check whether operating system CPU architecture is 64-bit or 32-bit.
+Check if the operating system CPU architecture is 64-bit or 32-bit.
 
 @example
 ```
@@ -13,7 +13,7 @@ console.log(await is64bit());
 export function is64bit(): Promise<boolean>;
 
 /**
-Check whether operating system CPU architecture is 64-bit or 32-bit.
+Check if the operating system CPU architecture is 64-bit or 32-bit.
 
 **Note**: Prefer the async version for browser or cross-platform usage as it has a more reliable check.
 
