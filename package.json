@@ -20,7 +20,6 @@
 	"engines": {
 		"node": ">=18"
 	},
-	"sideEffects": false,
 	"scripts": {
 		"test": "xo && ava"
 	},
